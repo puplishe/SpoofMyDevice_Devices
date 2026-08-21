@@ -1,38 +1,52 @@
 {
-    "id":  "pixel_8_pro",
-    "brandLabel":  "Google",
-    "modelLabel":  "Pixel 8 Pro",
-    "summary":  "Tensor G3 - Android 15",
-    "profile":  {
-                    "brand":  "google",
-                    "manufacturer":  "Google",
-                    "model":  "Pixel 8 Pro",
-                    "productName":  "husky",
-                    "deviceCode":  "husky",
-                    "board":  "husky",
-                    "hardware":  "husky",
-                    "boardPlatform":  "zuma",
-                    "buildFingerprint":  "google/husky/husky:15/BP1A.250305.019/13003188:user/release-keys",
-                    "buildId":  "BP1A.250305.019",
-                    "buildDisplayId":  "BP1A.250305.019",
-                    "buildIncremental":  "13003188",
-                    "buildRelease":  "15",
-                    "buildSdk":  35,
-                    "securityPatch":  "2025-03-05",
-                    "buildDescription":  "husky-user 15 BP1A.250305.019 13003188 release-keys",
-                    "buildFlavor":  "husky-user",
-                    "buildProduct":  "husky",
-                    "buildCharacteristics":  "nosdcard",
-                    "screenWidth":  1344,
-                    "screenHeight":  2992,
-                    "screenDensity":  489,
-                    "operatorAlpha":  "T-Mobile",
-                    "operatorNumeric":  "310260",
-                    "simOperatorAlpha":  "T-Mobile",
-                    "simOperatorNumeric":  "310260",
-                    "simCountryIso":  "us",
-                    "timezone":  "America/Los_Angeles",
-                    "socModel":  "Google Tensor G3",
-                    "socManufacturer":  "Google"
-                }
+  "id": "pixel_7_ru_android_11_8472",
+  "brandLabel": "Google",
+  "modelLabel": "Pixel 7",
+  "summary": "Tensor G2 - Android 11 - Russia",
+  "profile": {
+    "brand": "google",
+    "manufacturer": "Google",
+    "model": "Pixel 7",
+
+    "productName": "panther",
+    "deviceCode": "panther",
+    "board": "panther",
+    "hardware": "panther",
+    "boardPlatform": "gs201",
+
+    "buildFingerprint": "google/panther/panther:11/RQ3A.211001.001/7812453:user/release-keys",
+    "buildId": "RQ3A.211001.001",
+    "buildDisplayId": "RQ3A.211001.001",
+    "buildIncremental": "7812453",
+    "buildRelease": "11",
+    "buildSdk": 30,
+    "securityPatch": "2021-10-05",
+
+    "buildDescription": "panther-user 11 RQ3A.211001.001 7812453 release-keys",
+    "buildFlavor": "panther-user",
+    "buildProduct": "panther",
+    "buildCharacteristics": "nosdcard",
+
+    "screenWidth": 1080,
+    "screenHeight": 2400,
+    "screenDensity": 420,
+
+    "operatorAlpha": "MTS RUS",
+    "operatorNumeric": "25001",
+    "networkOperatorName": "MTS RUS",
+    "networkOperatorNumeric": "25001",
+    "networkCountryIso": "ru",
+
+    "simOperatorAlpha": "MTS RUS",
+    "simOperatorNumeric": "25001",
+    "simCountryIso": "ru",
+
+    "timezone": "Europe/Moscow",
+    "locale": "ru-RU",
+    "language": "ru",
+    "country": "RU",
+
+    "socModel": "gs201",
+    "socManufacturer": "Google"
+  }
 }
