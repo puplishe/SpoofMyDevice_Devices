@@ -1,20 +1,20 @@
 {
-  "id": "pixel_7_ru_android_11",
+  "id": "pixel_4a_ru_android_11",
   "brandLabel": "Google",
-  "modelLabel": "Pixel 7",
-  "summary": "Tensor G2 - Android 11 - Russia",
+  "modelLabel": "Pixel 4a",
+  "summary": "Snapdragon 730G - Android 11 - Russia",
   "profile": {
     "brand": "google",
     "manufacturer": "Google",
-    "model": "Pixel 7",
+    "model": "Pixel 4a",
 
-    "productName": "panther",
-    "deviceCode": "panther",
-    "board": "panther",
-    "hardware": "panther",
-    "boardPlatform": "gs201",
+    "productName": "sunfish",
+    "deviceCode": "sunfish",
+    "board": "sunfish",
+    "hardware": "qcom",
+    "boardPlatform": "sm7150",
 
-    "buildFingerprint": "google/panther/panther:11/RQ3A.211001.001/7641976:user/release-keys",
+    "buildFingerprint": "google/sunfish/sunfish:11/RQ3A.211001.001/7641976:user/release-keys",
     "buildId": "RQ3A.211001.001",
     "buildDisplayId": "RQ3A.211001.001",
     "buildIncremental": "7641976",
@@ -22,14 +22,14 @@
     "buildSdk": 30,
     "securityPatch": "2021-10-05",
 
-    "buildDescription": "panther-user 11 RQ3A.211001.001 7641976 release-keys",
-    "buildFlavor": "panther-user",
-    "buildProduct": "panther",
+    "buildDescription": "sunfish-user 11 RQ3A.211001.001 7641976 release-keys",
+    "buildFlavor": "sunfish-user",
+    "buildProduct": "sunfish",
     "buildCharacteristics": "nosdcard",
 
     "screenWidth": 1080,
-    "screenHeight": 2400,
-    "screenDensity": 420,
+    "screenHeight": 2340,
+    "screenDensity": 440,
 
     "operatorAlpha": "MTS RUS",
     "operatorNumeric": "25001",
@@ -46,7 +46,7 @@
     "language": "ru",
     "country": "RU",
 
-    "socModel": "gs201",
-    "socManufacturer": "Google"
+    "socModel": "SM7150",
+    "socManufacturer": "Qualcomm"
   }
 }
