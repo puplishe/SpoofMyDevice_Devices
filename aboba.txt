@@ -1,0 +1,62 @@
+{
+  "id": "pixel_7_ru_android_11_x86_64",
+  "brandLabel": "Google",
+  "modelLabel": "Pixel 7 (x86_64)",
+  "summary": "x86_64 - Android 11 - Russia",
+  "profile": {
+    "brand": "google",
+    "manufacturer": "Google",
+    "model": "Pixel 7",
+
+    "productName": "panther",
+    "deviceCode": "panther",
+    "board": "panther",
+    "hardware": "panther",
+    "boardPlatform": "gs201",
+
+    "buildFingerprint": "google/panther/panther:11/RQ3A.211001.001/7812453:user/release-keys",
+    "buildId": "RQ3A.211001.001",
+    "buildDisplayId": "RQ3A.211001.001",
+    "buildIncremental": "7812453",
+    "buildRelease": "11",
+    "buildSdk": 30,
+    "securityPatch": "2021-10-05",
+
+    "buildDescription": "panther-user 11 RQ3A.211001.001 7812453 release-keys",
+    "buildFlavor": "panther-user",
+    "buildProduct": "panther",
+    "buildCharacteristics": "nosdcard",
+
+    "cpuAbi": "x86_64",
+    "cpuAbi2": "x86",
+    "cpuAbiList": "x86_64,x86,arm64-v8a,armeabi-v7a,armeabi",
+    "cpuAbiList32": "x86,armeabi-v7a,armeabi",
+    "cpuAbiList64": "x86_64,arm64-v8a",
+
+    "supportedAbis": ["x86_64", "x86", "arm64-v8a", "armeabi-v7a", "armeabi"],
+    "supported32BitAbis": ["x86", "armeabi-v7a", "armeabi"],
+    "supported64BitAbis": ["x86_64", "arm64-v8a"],
+
+    "socModel": "x86_64",
+    "socManufacturer": "Google",
+
+    "screenWidth": 1080,
+    "screenHeight": 2400,
+    "screenDensity": 420,
+
+    "operatorAlpha": "MTS RUS",
+    "operatorNumeric": "25001",
+    "networkOperatorName": "MTS RUS",
+    "networkOperatorNumeric": "25001",
+    "networkCountryIso": "ru",
+
+    "simOperatorAlpha": "MTS RUS",
+    "simOperatorNumeric": "25001",
+    "simCountryIso": "ru",
+
+    "timezone": "Europe/Moscow",
+    "locale": "ru-RU",
+    "language": "ru",
+    "country": "RU"
+  }
+}
